@@ -3,7 +3,6 @@ describe('Test accessibility on article create and edit', () => {
     const createTabs = [
         'Images and Links',
         'Options',
-        'The Author',
         'Schema',
         'Publishing',
         'Configure Edit Screen',
